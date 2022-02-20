@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EbayUI</string>
+    <string name="edittext_hint">Search for anything</string>
+    <string name="saved">Saved</string>
+    <string name="categories">Categories</string>
+    <string name="deals">Deals</string>
+</resources>
